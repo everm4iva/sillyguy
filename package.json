@@ -1,7 +1,7 @@
 {
 	"name": "org.zoeisrad.sillyguy",
 	"displayName": "silly",
-	"version": "26.10.22",
+	"version": "26.10.23",
 	"description": "im just a silly guy",
 	"main": "index.js",
 	"scripts": {

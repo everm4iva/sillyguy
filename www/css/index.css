@@ -41,5 +41,8 @@ body {
 }
 
 img {
-	width: 70%;
+	max-height: 100%;
+	width: auto;
+	max-width: 70%;
+	object-fit: contain;
 }
