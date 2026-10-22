@@ -1,11 +1,11 @@
 # Silly guy
 <img src="./www/icons/icon.jpg" alt="silly" width="200"/>
 
-Yea... putting it simply: cordova-based app for that just displays a blank white screen with a silly dancing figure named "silly guy".
+Yea... putting it simply: cordova-based web-app that just displays a blank white screen with a silly dancing figure named "silly guy".
 
-There is nothing more of it, no plugins, no fancy animations/features, no bloat or system permitions, just that.
+There is nothing more of it, no plugins, no fancy animations/features, no bloat or system permissions, just that.
 
-I'm pretty proud of it. Pls star this repository.
+I'm pretty proud of it. Please star this repository.
 
 **Download:** [sillyguy.apk](https://github.com/everm4iva/sillyguy/releases/download/26.10.22/sillyguy.apk)
 
