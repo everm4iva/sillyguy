@@ -1,0 +1,30 @@
+{
+	"name": "org.zoeisrad.sillyguy",
+	"displayName": "silly",
+	"version": "26.10.22",
+	"description": "im just a silly guy",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo nothing to test, dummy && exit 1",
+		"start": "cordova run android",
+		"dep": "cordova clean && cordova platform add android && cordova prepare",
+		"clean": "rimraf platforms && rimraf dist",
+    "decl": "rimraf platforms && rimraf typings && rimraf dist && rimraf package-lock.json && rimraf yaml.lock && rimraf bun.lock && rimraf node_modules",
+		"build": "cordova prepare android && cordova build android --release \"--\" --packageType=apk"
+	},
+	"author": "Zoeisrad",
+	"license": "PFF",
+	"repository": {
+		"url": "https://github.com/everm4iva/sillyguy",
+		"type": "github"
+	},
+	"devDependencies": {
+		"cordova-android": "^15.1.0",
+		"rimraf": "^6.1.3"
+	},
+	"cordova": {
+		"platforms": [
+			"android"
+		]
+	}
+}

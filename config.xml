@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="org.zoeisrad.sillyguy" version="26.10.22" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Silly</name>
+    <description>
+        i'm just a silly guy
+    </description>
+
+    <author href="https://everm4iva.github.io">
+        ZoeisRad
+    </author>
+
+    <platform name="android">
+        <icon density="ldpi" src="www/icons/icon.png" />
+        <icon density="mdpi" src="www/icons/icon.png" />
+        <icon density="hdpi" src="www/icons/icon.png" />
+        <icon density="xhdpi" src="www/icons/icon.png" />
+        <icon density="xxhdpi" src="www/icons/icon.png" />
+        <icon density="xxxhdpi" src="www/icons/icon.png" />
+
+    <!-- Preferences -->
+        <preference name="KeepRunning" value="false" />
+        <preference name="SplashScreenDelay" value="0" />
+        <preference name="FadeSplashScreen" value="true" />
+        <preference name="ShowSplashScreen" value="false" />
+        <preference name="SplashScreenBackgroundColor" value="#ffffff" />
+        <preference name="BackgroundColor" value="#ffffff" />
+        <preference name="AndroidEdgeToEdge" value="true" />
+        <preference name="StatusBarOverlaysWebView" value="true" />
+        <preference name="StatusBarBackgroundColor" value="#ffffff" />
+        <preference name="android-debuggable" value="false" />
+        <preference name="Scheme" value="http" />
+        <preference name="Hostname" value="localhost" />
+    </platform>
+
+    <content src="index.html" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+</widget>

@@ -1,0 +1,45 @@
+* {
+	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+	box-sizing: border-box;
+}
+
+html {
+	overscroll-behavior: none;
+}
+
+body {
+	-webkit-touch-callout: none;
+	-webkit-text-size-adjust: none;
+	-webkit-user-select: none;
+	user-select: none;
+	background-color: white;
+	color: white;
+	font-family:
+		system-ui,
+		-apple-system,
+		-apple-system-font,
+		sans-serif;
+	font-size: 1.5rem;
+	height: 100vh;
+	overflow: hidden;
+	margin: 0px;
+	padding: 0px;
+	padding: env(safe-area-inset-top, 0px) env(safe-area-inset-right, 0px) env(safe-area-inset-bottom, 0px)
+		env(safe-area-inset-left, 0px);
+	text-size-adjust: none;
+	text-transform: uppercase;
+	width: 100%;
+}
+
+.app {
+	width: 100%;
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+img {
+	width: 70%;
+}

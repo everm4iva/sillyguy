@@ -1,0 +1,17 @@
+# Development noise
+/release/
+/node_modules/
+/dist/
+/.vscode/
+*lock.json
+*.lock
+
+# Sensible, i guess
+.DS_Store
+build.json
+assinkey.keystore
+
+# Cordova shit
+/plugins/
+/platforms/
+/typings/
