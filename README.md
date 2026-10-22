@@ -11,8 +11,8 @@ I'm pretty proud of it. Please star this repository.
 
 ---
 
-**Support:** Android +11
-**App size:** 6.1 MB
-**License:** PFF (Pure Freedom Forever)
+- **Support:** Android +11
+- **App size:** 6.1 MB
+- **License:** PFF (Pure Freedom Forever)
 > read [how-to-run.md](how-to-run.md) if ur mad curious.
 
