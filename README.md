@@ -1,5 +1,5 @@
 # Silly guy
-<img src="./www/icons/icon.jpg" alt="silly" width="200"/>
+<img src="./www/icons/icon.png" alt="silly" width="200"/>
 
 Yea... putting it simply: cordova-based web-app that just displays a blank white screen with a silly dancing figure named "silly guy".
 
