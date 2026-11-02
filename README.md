@@ -9,8 +9,6 @@ I'm pretty proud of it. Please star this repository.
 
 **Download:** [sillyguy.apk](https://github.com/everm4iva/sillyguy/releases/download/26.10.23/sillyguy.apk)
 
----
-
 - **Support:** Android +11
 - **App size:** 6.1 MB
 - **License:** PFF (Pure Freedom Forever)
